@@ -80,7 +80,14 @@ def main():
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
-
+    a=100
+    b=13
+    result3=a//b
+    
+    print("Part 3: a =",a)
+    print("Part 3: b =",b)
+    print("Part 3: result = ",result3)
+    
     # End of Part 3 ----------------------
 
 
