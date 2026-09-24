@@ -94,7 +94,10 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
-
+    result4=a%b
+    
+    print("Part 4: result = ",result4)
+    
     # End of Part 4 ----------------------
 
 if __name__ == "__main__":
