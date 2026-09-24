@@ -101,7 +101,7 @@ def main():
     # Print:
     print("Part 3: a =",a)
     print("Part 3: b =",b)
-    print("Part 3: result = ",result3)
+    print("Part 3: result =",result3)
     
     # End of Part 3 ----------------------
 
@@ -114,7 +114,7 @@ def main():
     result4=a%b
     
     # Print:
-    print("Part 4: result = ",result4)
+    print("Part 4: result =",result4)
     
     # End of Part 4 ----------------------
 
