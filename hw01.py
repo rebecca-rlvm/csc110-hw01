@@ -45,13 +45,18 @@ def main():
     # Part 1: Basic Operations
     # =============================================
     # Your code for part 1 under this line and before the print statements
+    
+    # Variables:
     x = 27
     y = 1
     a = 1.5
     b = 7
     c = -1
+    
+    # Calculation:
     result1 = (3*x - 9*y)/(2*a*(b-c))
     
+    # Print:
     print ("Part 1: x =", x)
     print ("Part 1: y =", y)
     print ("Part 1: a =", a)
@@ -65,10 +70,15 @@ def main():
     # Part 2: Power
     # =============================================
     # Your code for part 2 under this line and before the print statements
+    
+    # Variables:
     x=5
     y=-3
+    
+    # Calculation:
     result2=x**2*y**4
     
+    # Print:
     print("Part 2: x =",x)
     print("Part 2: y =",y)
     print("Part 2: result =",result2)
@@ -80,10 +90,15 @@ def main():
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
+    
+    # Variables:
     a=100
     b=13
+    
+    # Calculation:
     result3=a//b
     
+    # Print:
     print("Part 3: a =",a)
     print("Part 3: b =",b)
     print("Part 3: result = ",result3)
@@ -94,8 +109,11 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+    
+    # Calculation:
     result4=a%b
     
+    # Print:
     print("Part 4: result = ",result4)
     
     # End of Part 4 ----------------------
